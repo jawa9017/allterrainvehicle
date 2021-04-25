@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Warrick - Developer - The University of Colorado, Boulder
+
 
 # THANKS
 
-    <name>
+    Professor David Schaal - The University of Colorado, Boulder
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, Modernizr, Normalize.css, main.css, Parcel
+    HTML5, SCSS, NODE
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
